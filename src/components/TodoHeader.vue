@@ -7,7 +7,7 @@ import { RouterLink } from "vue-router";
     <nav class="container">
       <div class="branding">
         <img src="@/assets/to-do-list.png" alt="" />
-        <h1>Vue Todos</h1>
+        <h1>Shahribonu</h1>
       </div>
       <ul class="nav-routes">
         <RouterLink :to="{ name: 'todos' }">Todos</RouterLink>
